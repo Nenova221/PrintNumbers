@@ -1,0 +1,14 @@
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\bin\Debug\net8.0\PrintNumbers.exe
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\bin\Debug\net8.0\PrintNumbers.deps.json
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\bin\Debug\net8.0\PrintNumbers.runtimeconfig.json
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\bin\Debug\net8.0\PrintNumbers.dll
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\bin\Debug\net8.0\PrintNumbers.pdb
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\obj\Debug\net8.0\PrintNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\obj\Debug\net8.0\PrintNumbers.AssemblyInfoInputs.cache
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\obj\Debug\net8.0\PrintNumbers.AssemblyInfo.cs
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\obj\Debug\net8.0\PrintNumbers.csproj.CoreCompileInputs.cache
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\obj\Debug\net8.0\PrintNumbers.dll
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\obj\Debug\net8.0\refint\PrintNumbers.dll
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\obj\Debug\net8.0\PrintNumbers.pdb
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\obj\Debug\net8.0\PrintNumbers.genruntimeconfig.cache
+C:\Users\KalinA\source\repos\PrintNumbers\PrintNumbers\obj\Debug\net8.0\ref\PrintNumbers.dll
